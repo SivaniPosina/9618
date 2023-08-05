@@ -1,11 +1,11 @@
 .a{
-	height: 4300px;
+	height: 4370px;
 	width: 1490px;
 	margin: 10px 10px 10px 10px;
 	background-color: white;
 }
 .b{
-	height: 700px;
+	height: 720px;
 	width: 1490px;
 	background-color: white;
 }
@@ -22,7 +22,7 @@
 	margin-left: 150px;
 }
 .c{
-	height: 400px;
+	height: 450px;
 	width: 1490px;
 	background-color: white;
 }
@@ -266,17 +266,28 @@
 	height: 40px;
 	width: 1000px;
 	background-color: black;
+	color: white;
 }
-.N{
+/*.N{
 	height: 100px;
 	width: 1000px;
 	background-color: black;
+	color: white;
 
+}*/
+#bbbb{
+	height: 100px;
+	width: 1000px;
+	color: white;
+	background-color: black;
 }
 .M{
 	background-color:white;
 	text-align: center;
-	height: 25px;
+	height: 40px;
+	width: 100px;
+	color: black;
+
 }
 .i{
 	height: 100px;
@@ -284,14 +295,28 @@
 	background-color: black;
 	color: white;
 }
-#X{
-	color: skyblue;
+.xxx{
+     height: 100px;
+     width: 700px;
+     float: left;
+     background-color: black;
 }
-#z{
-	text-align: center;
+#N{
+	margin-left: 630px;
 }
-#x{
-	text-align: center;
+.yyy{
+	height: 100px;
+     width: 90px;
+     float: left;
+     background-color: black;
+
+}
+.zzz{
+	height: 100px;
+     width: 700px;
+     float: right;
+     background-color: black;
+
 }
 .k{
 	background-color: skyblue;
