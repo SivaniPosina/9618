@@ -1,0 +1,47 @@
+.a{
+	background-color: whitesmoke;
+}
+#b{
+	height: 100%;
+	width: 100%;
+}
+#a{
+	float: left;
+	font-size: 10px;
+}
+#c{
+	height: 90%;
+	width: 100%;
+}
+#d{
+	float: left;
+	font-size: 20px;
+	color: green;
+}
+#e{
+	float: left;
+
+}
+#f{
+	color: gray;
+
+}
+#g{
+	float: right;
+	font-size: 40px;
+	color: skyblue;
+}
+#aa{
+	color: gray;
+}
+#gg{
+	font-size: 20px;
+	margin-top: 10px;
+	float: right;
+}
+#rr{
+	float: right;
+	font-size: 10px;
+	margin-top: 10px;
+	color: gray;
+}

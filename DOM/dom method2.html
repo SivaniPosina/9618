@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>dom methods</title>
+</head>
+<body>
+	<!-- <p class="topic">HTML</p>
+	<p class="topic">CSS</p>
+	<p class="topic">BOOTSTRAP</p>
+	<p class="topic">JAVASCRIPT</p>
+	 lists
+	<ul>
+		<li>AEC</li>
+		<li>ACET</li>
+		<li>ACOE</li>
+	</ul> -->
+	<!-- tables -->
+	
+	<!-- <script type="text/javascript">
+		let p=document.getElementsByClassName('topic');
+		console.log(p)
+		p[0].innerHTML='html';
+		p[0].style.color='red';
+		p[2].innerHTML='bootstrap';
+		p[2].style.color='green';
+		let lis=document.getElementsByTagName('li');
+		console.log(lis);
+		lis[0].innerText="ADITYA ENGINEERING COLLEGE";
+
+	</script>
+ -->
+    <table border="">
+    	<tr>
+    		<td>1</td>
+    		<td>2</td>
+    		<td>3</td>
+    	</tr>
+    	<tr>
+    		<td>1</td>
+    		<td>2</td>
+    		<td>3</td>
+    	</tr>
+    	<tr>
+    		<td>1</td>
+    		<td>2</td>
+    		<td>3</td>
+    	</tr>
+    </table>
+    	
+    </table>
+    <!-- <script type="text/javascript">
+			document.write("<table border=2px solid black>")
+			for (rows = 1; rows <= 3; rows++){     
+                    document.write(" </tr> ")
+                    for (col = 1; col <= 3; col++) {
+                        document.write(" <td style= padding:10px > " + rows + " <br> "  + " </td> ")
+                    }
+                    document.write(" </tr> ")
+             }
+		</script> -->
+		<!-- <script type="text/javascript">
+			let tds=document.getElementsByTagName('td');
+			for(var i=0;i<tds.length;i++)
+			{
+				tds[i].innerText=i+1;
+			}
+		</script> -->
+		<!-- <script type="text/javascript">
+			let tds=document.getElementsByTagName('td');
+			var k=9;
+			for(var i=0;i<tds.length;i++)
+			{
+				tds[i].innerText=k;
+				k--;
+			}
+		</script> -->
+		<script type="text/javascript">
+			let k=document.getElementsByTagName('td')
+			for(var i=0;i<k.length;i++)
+			{
+				k[i].innerText=k.length-i;
+				
+			}
+		</script>
+
+</body>
+</html>

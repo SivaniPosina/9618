@@ -1,0 +1,83 @@
+.a{
+	background-color: whitesmoke;
+}
+#b{
+	height: 100%;
+	width: 100%;
+}
+/*#c{
+	height: 90%;
+	width: 100%;
+}*/
+.button1{
+	background-color: lightgreen;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.button2{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.button3{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.button4{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+select{
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+	border: 2px solid black;
+}
+#bb{
+	float: left;
+	font-size: 10px;
+}
+#zz{
+	height: 25%;
+	width: 20%;
+	float: left;
+}
+#cc{
+	float: left;
+}
+#dd{
+	float: left;
+	font-size: 15px;
+}
+#ee{
+	float: left;
+	font-size: 15px;
+}
+#gg{
+	float: left;
+	color: gray;
+	font-size: 15px;
+}
+#ff{
+	float: right;
+/*	margin-left: 100%;*/
+	color: gray;10210
+	font-size: 15px;
+}

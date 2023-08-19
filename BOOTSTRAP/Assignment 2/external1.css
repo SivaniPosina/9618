@@ -1,0 +1,109 @@
+.a{
+	background-color: whitesmoke;
+}
+#b{
+	height: 100%;
+	width: 100%;
+}
+#a{
+	font-size: 50px;
+	color: skyblue;
+	float: left;
+}
+#c{
+	font-size: 20px;
+	float: right;
+}
+#aa{
+	font-size: 15px;
+	color: black;
+}
+#d{
+	font-size: 50px;
+	color: orange;
+	float: left;
+
+}
+#e{
+	font-size: 20px;
+	float: right;
+
+}
+#f{
+	font-size: 50px;
+	color: green;
+	float: left;
+}
+#g{
+	font-size: 20px;
+	float: right;
+}
+#h{
+	font-size: 50px;
+	color: red;
+	float: left;
+
+}
+#i{
+	font-size: 20px;
+	float: right;
+
+}
+#j{
+	color: red;
+	font-size: 20px;
+	float: left;
+
+}
+#k{
+	font-size: 50px;
+	color: red;
+	float: right;
+
+}
+#l{
+	color: green;
+	font-size: 20px;
+	float: left;
+}
+#m{
+	font-size: 50px;
+	color: green;
+	float: right;
+
+}
+#n{
+	color: orange;
+	font-size: 20px;
+	float: left;
+
+}
+#o{
+	font-size: 50px;
+	color: orange;
+	float: right;
+
+}
+#p{
+	color: skyblue;
+	font-size: 20px;
+	float: left;
+
+}
+#q{
+	font-size: 50px;
+	color: skyblue;
+	float: right;
+}
+#l{
+	width: 40%;
+}
+#z{
+	width: 50%;
+}
+#x{
+	width: 30%;
+}
+#y{
+	width: 90%;
+}

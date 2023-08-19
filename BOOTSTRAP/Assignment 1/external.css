@@ -1,0 +1,64 @@
+.a{
+	height:80%;
+	width:80%;
+}
+#b{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#c{
+	margin-left: 110px;
+}
+#e{
+	margin-left: 110px;
+	color: gray;
+}
+#d{
+	
+	color: gray;
+
+}
+.z{
+	margin-right: 10%;
+}
+#f{
+	margin-left: 5%;
+}
+#h{
+	height: 100%;
+	width: 100%;
+	background-color: blue;
+	color: white;
+	padding: 5px;
+	border-radius: 4px;
+}
+.an{
+    width: 50%;
+    float: left;
+    padding: 10px 50px;
+    box-sizing: border-box;
+}
+#i{
+	height: 100%;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	border-radius: 4px;
+
+}
+#j{
+	height: 100%;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	border-radius: 4px;
+
+}
+#k{
+	color: blue;
+	text-decoration: none;
+}
+#l{
+	text-align: center;
+	margin-left: 120px;
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>function</title>
+</head>
+<body>
+	<script type="text/javascript">
+		// function test(){
+		// 	alert("testing");
+		// }
+		// test()
+		// function getname(b)
+		// {
+		// 	document.write(b);
+		// }
+		// getname('jhjjn'+"<br>")
+		// function name(a='xyz')
+		// {
+		// 	document.write(a);
+		// }
+		// name('hgvh'+"<br>")
+		// var a=prompt("scan your id");
+		// function scanyourid(rollno){
+		// 	document.write(rollno);
+		// }
+		// scanyourid(a)
+		// function sum(a,b){
+		// 	document.write(a+b);
+		// }
+		// sum(2,5)
+		// anonymous function is a function without a function name
+		var x=function(a,b){
+			return a*b
+		}
+	    document.write(x(3,7)+"<br>")
+	    var x=function(n){
+	    	return n*n*n
+	    }
+	    document.write(x(4)+"<br>")
+	    // arrow function
+	    getname=a=>{
+	    	document.write(a)
+	    }
+	    getname('ghgh'+"<br>")
+	    // arrow function sum
+	    add=(c,d)=>{
+	    	document.write(c+d)
+	    }
+	    add(2,8+"<br>")
+	    // arrow function without arguement
+	    test=_=>{
+	    	document.write("testingss")
+	    }
+	    test()
+	</script>
+
+</body>
+</html>
