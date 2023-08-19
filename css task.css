@@ -1,0 +1,256 @@
+.a{
+	height: 1000px;
+	width: 1500px;
+	background-color: whitesmoke;
+}
+.b{
+	height: 50px;
+	width: 1500px;
+	background-color: white;
+	margin-top: 20px;
+}
+.button1{
+	background-color: lightgreen;
+	width: 70px;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.button2{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.button3{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.button4{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+}
+select{
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	margin: 10px;
+	border-radius: 10px;
+	border: 2px solid black;
+}
+.e{
+	height: 50px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
+.s{
+	height: 850px;
+	width: 1500px;
+	background-color: whitesmoke;
+}
+.f{
+	height: 600px;
+	width: 500px;
+	background-color: white;
+	margin: 20px 20px 20px 40px;
+	float: left;
+
+}
+.i{
+	height: 900px;
+	width: 900px;
+	background-color: whitesmoke;
+	float: right;
+}
+i{
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	margin-left: 30px;
+}
+span{
+	color: gray;
+	margin-left: 120px;
+	font-siz:20px;
+}
+.g{
+	height: 400px;
+	width: 850px ;
+	background-color: white;
+	margin: 20px 30px 20px 20px;
+	
+}
+.h{
+	height: 400px;
+	width: 850px ;
+	background-color: white;
+	margin: 20px 30px 20px 20px;
+	float: right;
+
+}
+img[src]{
+	height: 250px;
+	width: 250px;
+	margin: 20px;
+	
+}
+p{
+	color: #71777d;
+}
+.k{
+	height: 400px;
+	width: 500px;
+	background-color: aliceblue;
+}
+.button6{
+	background-color: steelblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 25px;
+}
+.button7{
+	background-color: white;
+	color: steelblue;
+	border-radius: 10px;
+	border-color: blue;
+	font-size: 25px;
+	margin: 5px;
+}
+.button8{
+	background-color: steelblue;
+	border-radius: 5px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-right: 250px;
+
+}
+.o{
+	height: 350px;
+	width: 500px;
+	background-color: white;
+}
+i{
+	
+	height: 40px;
+	width: 40px;
+	margin: 10px 5px 5px 5px;
+	color: black;
+}
+label{
+     display: inline-block;	
+     margin: 5px;
+     margin-left: 30px;
+	font-size: 15px;
+}
+input{
+     color: #71777d;
+     font-size: 15px;
+     width: 400px;
+
+}
+.q{
+	height: 5px;
+	width: 750px;
+	background-color: blue;
+	margin-left: 5px;
+	float: left;
+}
+.t{
+	height: 5px;
+	width: 50px;
+	background-color: whitesmoke;
+	float: left;
+}
+.w{
+	height: 5px;
+	width: 700px;
+	background-color: violet;
+	margin-left: 5px;
+	float: left;
+}
+.v{
+	height: 5px;
+	width: 100px;
+	background-color: whitesmoke;
+	float: left;
+}
+.m{
+	height: 5px;
+	width: 770px;
+	background-color: green;
+	margin-left: 5px;
+	float: left;
+}
+.c{
+	height: 5px;
+	width: 30px;
+	background-color: whitesmoke;
+	float: left;
+}
+.n{
+	height: 5px;
+	width: 550px;
+	background-color: yellow;
+	margin-left: 5px;
+	float: left;
+}
+.d{
+	height: 5px;
+	width: 250px;
+	background-color: whitesmoke;
+	float: left;
+}
+.z{
+	height: 5px;
+	width: 600px;
+	background-color: green;
+	margin-left: 5px;
+	float: left;
+}
+.jk{
+	height: 5px;
+	width: 200px;
+	background-color: whitesmoke;
+	float: left;
+}
+
+g[button]{
+	background-color: blue;
+}
+.sh{
+	height: 50px;
+	width: 850px;
+}
+.iv{
+	height: 50px;
+	width: 350px;
+	float: left;
+	
+}
+.an{
+	height: 50px;
+	width: 500px;
+	float: right;
+	
+}
+.aj{
+	height: 10px;
+	width: 850px;
+}
